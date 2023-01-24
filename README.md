@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mailen Benitez</h1>
 <h3 align="center">A passionate full stack developer from Argentina 🌎</h3>
-<h4 align="center">I am a Full Stack Developer taking off 🚀, eager to learn, contribute and create. I have experience in applications with  applications with JavaScript, CSS, HTML, React, Readux, Node Js, Express, Sequelize and SQL.</h4>
+<h4 align="center">I am a Full Stack Developer taking off 🚀, eager to learn, contribute and create. I have experience in applications with JavaScript, CSS, HTML, React, Readux, Node Js, Express, Sequelize and SQL.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maibenitez93&label=Profile%20views&color=0e75b6&style=flat" alt="maibenitez93" /> </p>
 
